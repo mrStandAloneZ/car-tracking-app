@@ -1,0 +1,62 @@
+[
+    {
+        "carId": "car01",
+        "type": "truck",
+        "driverName": "มงคล อินเรือง",
+        "driverImg": "/assets/images/drivers/driver1.jpg",
+        "carImage": "/assets/images/trucks/suzuki1.jpeg",
+        "brand": "SUZUKI",
+        "model": "CARRY",
+        "licensePlate": "5ทด5678",
+        "jobDesc": "ส่งสินค้าที่ร้าน รุ่งเรื่อง garage พระราม2",
+        "coordinates": {
+            "lat": 13.62607356248336,
+            "lng": 100.39403879736459
+        }
+    },
+    {
+        "carId": "car02",
+        "type": "truck",
+        "driverName": "สมชาย มานะ",
+        "driverImg": "/assets/images/drivers/driver2.jpg",
+        "carImage": "/assets/images/trucks/suzuki2.jpeg",
+        "brand": "SUZUKI",
+        "model": "CARRY",
+        "licensePlate": "1กพ6711",
+        "jobDesc": "ส่งสินค้าที่ร้าน โชคชัย สุขุมวิท109",
+        "coordinates":{
+            "lat": 13.654647230200782,
+            "lng": 100.60325021092054
+        }
+    },
+    {
+        "carId": "car03",
+        "type": "truck",
+        "driverName": "จักพัน อิมบำนาญ",
+        "driverImg": "/assets/images/drivers/driver3.jpg",
+        "carImage": "/assets/images/trucks/kia1.jpeg",
+        "brand": "KIA",
+        "model": "K2500",
+        "licensePlate": "3หก7777",
+        "jobDesc": "ส่งสินค้าที่ร้าน ศิริชัยยนต์ garage รามคำแหง 27",
+        "coordinates": {
+            "lat": 13.757755935488986,
+            "lng": 100.60342187229749
+        }
+    },
+    {
+        "carId": "car04",
+        "type": "truck",
+        "driverName": "รุ่งโรจ จันทร์ทอง",
+        "driverImg": "/assets/images/drivers/driver4.jpg",
+        "carImage": "/assets/images/trucks/kia2.jpeg",
+        "brand": "KIA",
+        "model": "K2500",
+        "licensePlate": "3กก9877",
+        "jobDesc": "ส่งสินค้าที่ร้าน GoodJob garage สนามบินสุวรรณภูมิ",
+        "coordinates": {
+            "lat": 13.722474399642266,
+            "lng": 100.7414182442997
+        }
+    }
+]

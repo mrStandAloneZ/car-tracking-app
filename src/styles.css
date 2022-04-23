@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.car-img {
+    width: 100% !important;
+}
+
+.card-body p {
+    margin-bottom: 0.5rem;
+}
+.driver-detail img {
+width: 30px;
+border-radius: 1rem;
+margin-right: 0.5rem;
+}
